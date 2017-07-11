@@ -1,0 +1,12 @@
+h1{
+    color: black;
+};
+
+body {
+color: blue;
+}
+#divImages img{
+    width: 200px;
+    height: 200px;
+    margin: 5px;
+}
